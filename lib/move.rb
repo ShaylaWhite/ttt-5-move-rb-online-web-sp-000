@@ -8,3 +8,5 @@ end
 
 def input_to_index(' '.to_1)
 end
+
+def move ()
